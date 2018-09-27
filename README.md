@@ -1,6 +1,9 @@
-# ServerlessApp
+# AWS Serverless CRUD App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+
+## DEMO
+`http://serverless-angular-aleem.s3-website-ap-southeast-2.amazonaws.com/`
 
 ## Development server
 
